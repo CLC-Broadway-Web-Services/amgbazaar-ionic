@@ -1,0 +1,8 @@
+{
+  "name": "amgbazaar",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
